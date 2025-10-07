@@ -1,5 +1,5 @@
 
-  # MAP - Rewards V02
+  # MAP - Rewards
 
   This is a code bundle for MAP - Rewards V02. The original project is available at https://www.figma.com/design/DVEbksnpN5wtkc5bylPAad/MAP---Rewards-V02.
 
